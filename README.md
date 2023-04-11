@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200" width="600" />
-</div>  
-  
 
 <div align="center">
 <img src="https://res.cloudinary.com/dpnnlqglr/image/upload/v1681191290/My_project-1_cyeuwh.png" align="center" height="" width="" />
